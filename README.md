@@ -2,7 +2,7 @@
 
 Chain Reaction multipayer game is to demostrate the usage and applications of Data Structures using C++.
 
-The game uses the some of the concepts of the basic data structures such as:
+The game uses some of the concepts of the basic data structures such as:
 <ul>
   <li>Linked List</li>
   <liTrees></li>
